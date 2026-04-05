@@ -1,5 +1,5 @@
 const config = {
-  apiBaseUrl: "https://gestor-de-tareas-backend.vercel.app",
+  apiBaseUrl: "https://gestor-de-tareas-backend.vercel.app/api",
   projectName: "Gestor de Tareas",
   subtitle:
     "Organiza, prioriza y completa tus pendientes con una interfaz simple, clara y académica.",
